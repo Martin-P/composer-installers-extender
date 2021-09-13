@@ -20,6 +20,20 @@ The format is based on [Keep a Changelog][] and this project adheres to the
 
 ### Security
 
+## [2.1.0] - 2021-09-13
+### Added
+- Add dependency for `composer/installers` 2.0
+
+### Changed
+
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
 ## [2.0.0] - 2020-08-11
 ### Added
 - Add `.editorconfig`, `.gitignore`, `.lando.yml`, `phpcs.xml` and `phpunit.xml`
